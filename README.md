@@ -1,6 +1,7 @@
 # 30daymapchallenge
 Code from the 30 Day Map Challenge 2022
 
+```
 Day 	Date 	Theme 	Details 	
 1 	01-11-2022 	Points 	A map with points. 	
 2 	02-11-2022 	Lines 	A map with lines. 	
