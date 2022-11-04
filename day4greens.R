@@ -1,14 +1,8 @@
 library(tigris)
 library(tidyverse)
-library(classInt)
 library(tidycensus)
-library(sf)
-library(wacolors)
 
 rm(list=ls())
-
-vars <- load_variables(2020, 'acs5', cache=T)
-
 
 acs <- get_acs("tract",
                state='ny',
